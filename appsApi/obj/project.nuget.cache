@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pa1IfyWyfI9rIF1DkTWv6P/ipkXAnWY5+o5rDGtPKSekahPoOxdgEawf+hAC0L6BprLM9dy9EZRoGkT0grHWZw==",
+  "success": true,
+  "projectFilePath": "G:\\Sanoop Projects\\DotNetCore Self Project\\TokenProvider\\appsApi\\appsApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sanoop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sanoop\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sanoop\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\sanoop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\sanoop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\sanoop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

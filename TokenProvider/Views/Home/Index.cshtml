@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+@using Microsoft.AspNetCore.Http
+@inject IHttpContextAccessor HttpContextAccessor
+    <h1>@HttpContextAccessor.HttpContext.Session.GetString("username")</h1>
+<script>
+   var isFiltered = '@HttpContextAccessor.HttpContext.Session.GetString("username")';
+   alert(isFiltered);
+</script>

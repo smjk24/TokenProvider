@@ -1,0 +1,843 @@
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csprojAssemblyReference.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.AssemblyInfoInputs.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.AssemblyInfo.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csproj.CoreCompileInputs.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.MvcApplicationPartsAssemblyInfo.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorAssemblyInfo.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorAssemblyInfo.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\staticwebassets\TokenProvider.StaticWebAssets.Manifest.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\staticwebassets\TokenProvider.StaticWebAssets.xml
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\TokenProvider.styles.css
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.TagHelpers.input.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.TagHelpers.output.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorCoreGenerate.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorTargetAssemblyInfo.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorTargetAssemblyInfo.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.pdb
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\appsettings.json
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.exe
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.deps.json
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.runtimeconfig.json
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.runtimeconfig.dev.json
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.pdb
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.Views.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.Views.pdb
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.Views.pdb
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csproj.CopyComplete
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.genruntimeconfig.cache
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.MvcApplicationPartsAssemblyInfo.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Login\_Layout.cshtml.g.cs
+G:\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.exe
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.deps.json
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.runtimeconfig.json
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.runtimeconfig.dev.json
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.pdb
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.Views.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\TokenProvider.Views.pdb
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csprojAssemblyReference.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.AssemblyInfoInputs.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.AssemblyInfo.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csproj.CoreCompileInputs.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.MvcApplicationPartsAssemblyInfo.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.MvcApplicationPartsAssemblyInfo.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorAssemblyInfo.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorAssemblyInfo.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\staticwebassets\TokenProvider.StaticWebAssets.Manifest.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\staticwebassets\TokenProvider.StaticWebAssets.xml
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\scopedcss\bundle\TokenProvider.styles.css
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.TagHelpers.input.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.TagHelpers.output.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorCoreGenerate.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Login\Index.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Login\_Layout.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorTargetAssemblyInfo.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.RazorTargetAssemblyInfo.cs
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.Views.pdb
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.csproj.CopyComplete
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.pdb
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\obj\Debug\netcoreapp3.1\TokenProvider.genruntimeconfig.cache
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Sanoop Projects\DotNetCore Self Project\TokenProvider\TokenProvider\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
